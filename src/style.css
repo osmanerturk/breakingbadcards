@@ -1,0 +1,35 @@
+/* *{
+    padding: 10px;
+}
+
+.char-div{
+    display: inline-block;
+    align-items: center;
+
+}
+
+.img{
+    height: 200px;
+    width: auto;
+    padding: 10px;
+    cursor: pointer;
+}
+.names{
+    height: auto;
+    width: 100px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quo-div{
+    display: inline-block;
+    align-items: center;
+
+}
+
+.quo-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: auto;
+    width: auto;
+    text-align: justify;
+} */
